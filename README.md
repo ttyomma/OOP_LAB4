@@ -22,3 +22,6 @@
 <br/>
 Data Table:<br/>
 ![image](https://github.com/user-attachments/assets/ca2704ff-298c-44e0-9919-7123994dda2a)
+
+## Додатково / Additional Task
+Організувати імпорт даних із csv файла.<br/>
