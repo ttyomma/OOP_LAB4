@@ -25,3 +25,8 @@ Data Table:<br/>
 
 ## Додатково / Additional Task
 Організувати імпорт даних із csv файла.<br/>
+
+Компіляція програми та її вигляд:<br/>
+![image](https://github.com/user-attachments/assets/4460ff9d-ce4b-4d89-a54a-4daab74ec810)
+
+Доданно два нових методи ReadCSV та ImportCSV для відповідних функцій
